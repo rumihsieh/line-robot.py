@@ -1,1 +1,1 @@
-# line-robot.py
+# 這是LINE聊天機器人
